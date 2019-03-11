@@ -1,0 +1,28 @@
+DIFFERENCE BETWEEN DECLARATION,DEFINATION AND INITIALISATION
+
+DECLARATION
+Declaring a variable reserves a name and some space in memory for a variable of the specified type, but doesn't give it a value.
+
+example:
+ int a; //declarind a variable
+
+
+DEFINATION
+unlike declaration defination states the variable is declared and memory is allocated to the variable,a variable cannot be defined multiple times in the same scope
+it is also a defination of a previouslly declared name i.e calling a function is actually a defination
+
+example:
+int sum (int a int b) {
+return at b;} 
+sum (10,5) //function call=function defination
+
+INTIALISATION
+
+unlike declaration and defination intialisation is declaring a variable and assigning a value at the declaration time called intializing a variable.
+it also gives the variable a value or body to the function
+
+example:
+int a;=10 // initializing variable a
+
+
+
