@@ -1,0 +1,27 @@
+
+fruits=["bananas","mangoes","apples","berry"]
+(4)
+ ["bananas", "mangoes", "apples", "berry"]
+var obj = {
+foo: "mangoes",
+
+getFruit: function(kiosk) {
+ 
+         return this.foo;
+
+},
+   
+ setFruits: function(kiosk) {
+ 
+            this.foo = mangoes;
+
+    }
+
+}
+
+undefined
+
+console.log(obj.getFruit());
+
+VM2979:1
+ mangoes
